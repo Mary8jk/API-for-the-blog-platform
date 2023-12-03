@@ -14,7 +14,7 @@
 ## Установка
 Клонировать репозиторий и перейти в него в командной строке:
 ```
-git clone https://github.com/Mary8jk/api_final_yatube.git
+git clone git@github.com:Mary8jk/API-for-the-blog-platform.git
 ```
 
 ```
